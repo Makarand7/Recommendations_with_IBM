@@ -1,0 +1,17 @@
+# .gitignore
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+*.env
+.env/
+
+# Logs and temporary files
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
