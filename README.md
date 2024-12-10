@@ -10,7 +10,7 @@ The source code for this project is hosted on GitHub:
 ## Web Application 
 
 Web Application for this project is hosted on Streamlit:  
-[Recommendations with IBM Web App]()
+[Recommendations with IBM Web App](https://recommendationswithibm-kbi4ibaoccgd6wyt5soorr.streamlit.app/)
 
 ## Project Overview
 
